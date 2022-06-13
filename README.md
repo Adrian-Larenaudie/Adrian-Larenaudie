@@ -4,5 +4,6 @@ I'm Adrian, a frontend React and React-Redux developper with some backend knowle
 I did my training at the O'clock school and keep learning every day by myself;  
 
 ## Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-![Logo VSC](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css "logo VSC")
+
+<img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
