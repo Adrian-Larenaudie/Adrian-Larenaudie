@@ -5,4 +5,4 @@ I did my training at the O'clock school and keep learning every day by myself;
 
 ## Languages and Tools:
 
-(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+![Logo VSC](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css "logo VSC")
