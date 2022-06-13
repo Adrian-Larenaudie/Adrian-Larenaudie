@@ -21,8 +21,8 @@ I did my training at the O'clock school and keep learning every day by myself;
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie)](https://github.com/anuraghazra/github-readme-stats)          
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&count_private=true&theme=synthwave)          
           
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)         
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&show_icons=true&theme=synthwave)         
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&show_icons=true&theme=synthwave)
