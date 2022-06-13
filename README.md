@@ -19,6 +19,6 @@ I did my training at the O'clock school and keep learning every day by myself;
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </p>
          
-<p align="center">         
+     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&show_icons=true&theme=synthwave)
-</p>
+
