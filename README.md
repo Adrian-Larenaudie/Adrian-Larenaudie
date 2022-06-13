@@ -19,7 +19,7 @@ I did my training at the O'clock school and keep learning every day by myself;
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </p>
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie)](https://github.com/anuraghazra/github-readme-stats)          
           
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)          
           
