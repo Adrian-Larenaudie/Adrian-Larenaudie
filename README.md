@@ -24,5 +24,5 @@ I did my training at the O'clock school and keep learning every day by myself;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&count_private=true&show_icons=true&theme=synthwave">
   </a>
 </p>    
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-larenaudie&show_icons=true&theme=synthwave)
+
 
