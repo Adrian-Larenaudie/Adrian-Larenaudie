@@ -18,6 +18,8 @@ I did my training at the O'clock school and keep learning every day by myself;
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </p>
+
+## My gitHub stats
          
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,4 +27,9 @@ I did my training at the O'clock school and keep learning every day by myself;
   </a>
 </p>    
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumoloEttouatiKevin&theme=dark&count_private=true&show_icons=true&langs_count=10&layout=compact">
+  </a>
+</p>
 
