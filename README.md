@@ -30,7 +30,7 @@ I did my training at the O'clock school and keep learning every day by myself;
 [![Adrian-Larenaudie's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrian-Larenaudie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph )
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/adrian-larenaudie/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Larenaudie&theme=dark&count_private=true&show_icons=true&langs_count=10&layout=compact">
   </a>
 </p>
