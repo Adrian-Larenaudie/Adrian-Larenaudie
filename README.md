@@ -4,7 +4,8 @@
 </br>
 J'ai suivi la formation DWWM au sein de l'école O'clock.
 </br>
-Actuellement je poursuis mes études en alternance dans la même école et ce dans le but d'obtenir le titre professionnel CDA (concepteur et développeur d'application)
+Actuellement je poursuis mes études en alternance dans la même école et ce dans le but d'obtenir le titre professionnel CDA (concepteur et développeur d'application).
+</br>
 En parallèle je suis tech lead chez Ziaon, ma mission pour cette entreprise est de développer des callbots et chatbots.</p>
 
 ## Langages et outils:
