@@ -1,4 +1,4 @@
-### Hi there👋
+### Bonjour👋
 
 Je m'appelle Adrian, je suis un développeur web orienté front end et spécialisé en React et react-redux avec des connaissances en PHP pour le back.
 J'ai suivi la formation DWWM au sein de l'école O'clock.
