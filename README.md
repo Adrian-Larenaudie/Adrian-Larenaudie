@@ -1,9 +1,11 @@
 ### Hi there👋
 
-I'm Adrian, a frontend React and React-Redux developper with backend knowledge in PHP;  
-I did my training as web developper on the O'clock school and keep learning every day by myself;
+Je m'appelle Adrian, je suis un développeur web orienté front end et spécialisé en React et react-redux avec des connaissances en PHP pour le back.
+J'ai suivi la formation DWWM au sein de l'école O'clock.
+Actuellement je poursuis mes études en alternance dans la même école et ce dans le but d'obtenir le titre professionnel CDA (concepteur et développeur d'application)
+En parallèle je suis tech lead chez Ziaon, ma mission pour cette entreprise est de développer des callbots et chatbots.
 
-## Languages and Tools:
+## Langages et outils:
 
 <p align="center">
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -19,7 +21,7 @@ I did my training as web developper on the O'clock school and keep learning ever
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </p>
 
-## My gitHub stats
+## Mes stats github:
          
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,6 +37,6 @@ I did my training as web developper on the O'clock school and keep learning ever
   </a>
 </p>
 
-## Personal web Site
+## Mon site personnel:
 
 https://adrian-larenaudie.com/
