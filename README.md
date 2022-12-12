@@ -32,8 +32,6 @@ Pour mon alternance, je suis tech lead back end nodeJs chez Ziaon, une entrepris
   </a>
 </p>    
 
-[![Adrian-Larenaudie's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrian-Larenaudie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph )
-
 <p align="center">
   <a href="https://github.com/adrian-larenaudie/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Larenaudie&theme=dark&count_private=true&show_icons=true&langs_count=10&layout=compact">
