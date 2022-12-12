@@ -7,10 +7,9 @@ J'ai également des compétences en php/laravel pour le back end.
 </p>
 <p>
 A la suite d'une formation (DWWM) au sein de l'école O'clock, je poursuis actuellement ma formation en alternance pour le titre professionnel CDA (concepteur et développeur d'application) dans la même école.
-</br>
+</p>
+<p>
 Pour cette alternance, j'exerce en tant que développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
-</br>
-Ma mission principal est d'intervenir sur des callbots aussi bien en run qu'en build.
 </p>
 <p>
 A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une partie de mon temps libre à développer des minis jeux en javascript vanilla.
@@ -20,9 +19,9 @@ A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une
 Vous pourrez retrouver ces jeux sur mon profil :)
 Au menu:
 <ul>
- -> un jeu de mémoire
- -> un snake
- -> un tétris
+ <li>-> un jeu de mémoire</li>
+ <li>-> un snake</li>
+ <li>-> un tétris</li>
 </ul>
 </p>
 
