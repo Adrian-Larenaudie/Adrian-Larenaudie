@@ -12,7 +12,7 @@ A la suite d'une formation (DWWM) au sein de l'école O'clock, je poursuis actue
 Pour cette alternance, j'exerce en tant que développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
 <p>
-A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une partie de mon temps libre à développer des minis jeux en javascript vanilla.
+A cotés de ça, je passe une partie de mon temps libre à développer des minis jeux en js vanilla.
 </br>
 </p>
 <p>
