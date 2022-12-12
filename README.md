@@ -19,9 +19,9 @@ A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une
 Vous pourrez retrouver ces jeux sur mon profil :)
 Au menu:
 <ul>
- <li>-> un jeu de mémoire</li>
- <li>-> un snake</li>
- <li>-> un tétris</li>
+ <li>un jeu de mémoire</li>
+ <li>un snake</li>
+ <li>un tétris</li>
 </ul>
 </p>
 
