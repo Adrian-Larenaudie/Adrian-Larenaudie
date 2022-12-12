@@ -1,19 +1,29 @@
 ### Bonjour👋
 
-<p>Je m'appelle Adrian, je suis développeur web orienté front end, spécialisé en javascript, React et react-redux <3.
- J'ai également des compétences en php/laravel pour le back end.
+<p>
+Je m'appelle Adrian, je suis développeur web orienté front end, spécialisé en javascript, React et react-redux <3.
 </br>
-A la suite d'une première formation de DWWM au sein de l'école O'clock, je poursuis actuellement mes études en alternance dans la même école et ce dans le but d'obtenir le titre professionnel CDA (concepteur et développeur d'application).
+J'ai également des compétences en php/laravel pour le back end.
+</p>
+<p>
+A la suite d'une formation (DWWM) au sein de l'école O'clock, je poursuis actuellement ma formation en alternance pour le titre professionnel CDA (concepteur et développeur d'application) dans la même école.
 </br>
-Pour mon alternance, je suis développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
+Pour cette alternance, j'exerce en tant que développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
+</br>
 Ma mission principal est d'intervenir sur des callbots aussi bien en run qu'en build.
- 
-A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une partie de mon temps libreà développer de modeste petit jeu en javascript vanilla.
+</p>
+<p>
+A cotés de ça, étant passionné par javascript et le jeu vidéo, je passe une partie de mon temps libre à développer des minis jeux en javascript vanilla.
+</br>
+</p>
+<p>
 Vous pourrez retrouver ces jeux sur mon profil :)
- Au menu:
+Au menu:
+<ul>
  -> un jeu de mémoire
  -> un snake
  -> un tétris
+</ul>
 </p>
 
 ## Langages et outils:
