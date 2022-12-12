@@ -13,10 +13,10 @@ Pour cette alternance, j'exerce en tant que développeur back end node js chez Z
 </p>
 <p>
 A cotés de ça, je passe une partie de mon temps libre à développer des minis jeux en js vanilla.
-</br>
 </p>
 <p>
 Vous pourrez retrouver ces jeux sur mon profil :)
+</br>
 Au menu:
 <ul>
  <li><a href="https://jormungand-game-adrian.surge.sh/">un snake</a></li>
