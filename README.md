@@ -19,9 +19,9 @@ A cotés de ça, je passe une partie de mon temps libre à développer des minis
 Vous pourrez retrouver ces jeux sur mon profil :)
 Au menu:
 <ul>
- <li><a href="jormungand-game-adrian.surge.sh/">un snake</a></li>
- <li><a href="tetris-game-adrian.surge.sh/">un tétris</a></li>
- <li><a href="poke-memory-game-adrian.surge.sh/">un jeu de mémoire</a></li>
+ <li><a href="https://jormungand-game-adrian.surge.sh/">un snake</a></li>
+ <li><a href="https://tetris-game-adrian.surge.sh/">un tétris</a></li>
+ <li><a href="https://poke-memory-game-adrian.surge.sh/">un jeu de mémoire</a></li>
 </ul>
 </p>
 
