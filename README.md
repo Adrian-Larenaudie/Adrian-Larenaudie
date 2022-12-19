@@ -19,9 +19,9 @@ Vous pourrez retrouver ces jeux sur mon profil :)
 </br>
 Au menu:
 <ul>
- <li><a href="https://jormungand-game-adrian.surge.sh/">un snake</a></li>
- <li><a href="https://tetris-game-adrian.surge.sh/">un tétris</a></li>
- <li><a href="https://poke-memory-game-adrian.surge.sh/">un jeu de mémoire</a></li>
+ <li><a href="https://jormungand-game-adrian.surge.sh/">snake</a></li>
+ <li><a href="https://tetris-game-adrian.surge.sh/">tétris</a></li>
+ <li><a href="https://poke-memory-game-adrian.surge.sh/">jeu de mémoire</a></li>
 </ul>
 </p>
 
