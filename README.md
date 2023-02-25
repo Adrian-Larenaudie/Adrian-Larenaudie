@@ -9,17 +9,10 @@ A la suite d'une formation (DWWM) au sein de l'école O'clock, je poursuis actue
 <p>
 Pour cette alternance, j'exerce en tant que développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
-<p>
-A cotés de ça, je passe une partie de mon temps libre à développer des minis jeux en js.
-</p>
-<p>
-Vous pourrez retrouver ces jeux sur mon profil :)
-</br>
-Au menu:
+Jeux classiques que j'ai recoder en JS:
 <ul>
- <li><a href="https://jormungand-game-adrian.surge.sh/">snake</a></li>
- <li><a href="https://tetris-game-adrian.surge.sh/">tétris</a></li>
- <li><a href="https://poke-memory-game-adrian.surge.sh/">jeu de mémoire</a></li>
+ <li><a href="https://jormungand-game-adrian.surge.sh/">un Snake</a></li>
+ <li><a href="https://tetris-game-adrian.surge.sh/">un Tetris</a></li>
 </ul>
 </p>
 
@@ -30,20 +23,20 @@ https://adrian-larenaudie.com
 ## Langages et outils:
 
 <p align="center">
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />           
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />           
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+ <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
                  
 </p>
 
