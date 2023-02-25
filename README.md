@@ -9,7 +9,7 @@ A la suite d'une formation (DWWM) au sein de l'école O'clock, je poursuis actue
 <p>
 Pour cette alternance, j'exerce en tant que développeur back end node js chez Ziaon, une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
-Jeux classiques que j'ai recoder en JS:
+Jeux classiques que j'ai recodé en JS:
 <ul>
  <li><a href="https://jormungand-game-adrian.surge.sh/">un Snake</a></li>
  <li><a href="https://tetris-game-adrian.surge.sh/">un Tetris</a></li>
