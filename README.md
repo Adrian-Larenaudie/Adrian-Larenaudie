@@ -18,7 +18,7 @@ Jeux classiques que j'ai recodé en JS:
 
 ## Mon site personnel:
 
-[https://adrian-larenaudie.com](https://adrian-larenaudie.com/)
+https://adrian-larenaudie.surge.sh/
 
 ## Langages et outils:
 
