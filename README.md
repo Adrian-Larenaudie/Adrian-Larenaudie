@@ -24,15 +24,15 @@ Il s'agit d'une entreprise qui propose des solutions de relation client augment�
 - **Base de données relationnelles:** MySQL, PostgreSQL.
 - **Outils:** Docker.
 
-## Projets persos:
-Jeux classiques que codé en JS pour me faire la main pendant mes formations:
+## Projets persos:  
+
 <ul>
  <li><a href="https://jormungand-game-adrian.surge.sh/">un Snake</a></li>
  <li><a href="https://tetris-game-adrian.surge.sh/">un Tetris</a></li>
 </ul>
 </p>
 
-Site perso:
+## Site perso:
 **https://adrian-larenaudie.surge.sh/**
 
 
