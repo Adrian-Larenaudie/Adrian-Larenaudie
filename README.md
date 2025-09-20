@@ -11,7 +11,7 @@ Actuellement développeur backend chez Zaion depuis bientôt 3ans.
 Il s'agit d'une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
 
-## Compétences principales usage quotidiens:
+## Compétences principales usage quotidien:
 
 - **Backend:** NodeJs vanilla & TypeScript.
 - **Bases de données:** MongoDB.
