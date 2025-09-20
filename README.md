@@ -19,7 +19,7 @@ Il s'agit d'une entreprise qui propose des solutions de relation client augment�
 - **Outils et workflows:** GitLab, PM2, Jira, GitHub Copilot.
 
 ### Compétences complémentaites expériences ponctuelles: 
-- **Fronten:** HTML, CSS, ReactJS, Redux, VueJS.
+- **Frontend:** HTML, CSS, ReactJS, Redux, VueJS.
 - **Backend:** PHP, Laravel, NestJS.
 - **Base de données relationnelles:** MySQL, PostgreSQL.
 - **Outils:** Docker.
