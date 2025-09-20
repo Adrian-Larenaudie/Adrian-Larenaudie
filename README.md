@@ -10,12 +10,6 @@ Formation DWWM (6mois) puis CDA (16mois) au sein de l'école <a href="https://oc
 Actuellement développeur backend chez Zaion depuis bientôt 3ans.
 Il s'agit d'une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
-Jeux classiques que j'ai recodé en JS pour me faire la main pendant mes formations:
-<ul>
- <li><a href="https://jormungand-game-adrian.surge.sh/">un Snake</a></li>
- <li><a href="https://tetris-game-adrian.surge.sh/">un Tetris</a></li>
-</ul>
-</p>
 
 ## Compétences principales usage quotidiens:
 
@@ -30,6 +24,15 @@ Jeux classiques que j'ai recodé en JS pour me faire la main pendant mes formati
 - **Base de données relationnelles:** MySQL, PostgreSQL.
 - **Outils:** Docker.
 
+## Projets persos:
+Jeux classiques que codé en JS pour me faire la main pendant mes formations:
+<ul>
+ <li><a href="https://jormungand-game-adrian.surge.sh/">un Snake</a></li>
+ <li><a href="https://tetris-game-adrian.surge.sh/">un Tetris</a></li>
+</ul>
+</p>
+
+Site perso:
 **https://adrian-larenaudie.surge.sh/**
 
 
