@@ -4,10 +4,10 @@
 Je suis Adrian, développeur orienté backend avec des notions frontend.
 </p>
 <p>
-Formation DWWM (6mois) puis CDA (16mois) au sein de l'école <a href="https://oclock.io/" target="_blank"> O'clock. </a>
+Formation DWWM (6 mois) puis CDA (16 mois) au sein de l'école <a href="https://oclock.io/" target="_blank"> O'clock. </a>
 </p>
 <p>
-Actuellement développeur backend chez Zaion depuis bientôt 3ans.
+Actuellement développeur backend chez Zaion depuis bientôt 3 ans.
 Il s'agit d'une entreprise qui propose des solutions de relation client augmentées par l'IA.
 </p>
 
